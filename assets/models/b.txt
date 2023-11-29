@@ -1,5 +1,0 @@
-healthy
-curl
-minor
-yellowing
-spot
